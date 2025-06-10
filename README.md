@@ -14,8 +14,6 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=TheDeadCapitan&label=Crew%20Members&color=0e75b6&style=flat" alt="Profile views" />
   <a href="https://twitter.com/yourusername"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white" alt="Twitter" /></a>
-  <a href="https://linkedin.com/in/yourusername"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 ---
@@ -85,19 +83,18 @@ class TheDeadCapitan:
 <table>
   <tr>
     <td align="center" width="50%">
-      <h3>🏴‍☠️ Project Name</h3>
-      <p>Brief description of what you're building</p>
+      <h3>🔧 Windows Repair Tools</h3>
+      <p>A collection of batch scripts to fix common Windows issues and optimize system performance</p>
       <p>
-        <a href="#"><img src="https://img.shields.io/badge/View%20Code-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
-        <a href="#"><img src="https://img.shields.io/badge/Live%20Demo-FF6B6B?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+        <a href="https://github.com/TheDeadCapitan/windows-repair-tools"><img src="https://img.shields.io/badge/View%20Code-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
+        <img src="https://img.shields.io/badge/Batch-4EAA25?style=for-the-badge&logo=windows&logoColor=white" />
       </p>
     </td>
     <td align="center" width="50%">
-      <h3>⚓ Another Project</h3>
-      <p>What this project does</p>
+      <h3>⚓ Next Adventure</h3>
+      <p>Coming soon... The seas are calling!</p>
       <p>
-        <a href="#"><img src="https://img.shields.io/badge/View%20Code-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
-        <a href="#"><img src="https://img.shields.io/badge/In%20Progress-FFA500?style=for-the-badge" /></a>
+        <img src="https://img.shields.io/badge/In%20Planning-FFA500?style=for-the-badge" />
       </p>
     </td>
   </tr>
@@ -175,3 +172,4 @@ class TheDeadCapitan:
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Thanks+for+visiting,+matey!+⚓;Fair+winds+and+following+seas!+⛵;Remember:+Every+expert+was+once+a+beginner!+🌊" alt="Footer" />
   
   <p>Made with ❤️ and lots of ☕ by TheDeadCapitan</p>
+</div>
