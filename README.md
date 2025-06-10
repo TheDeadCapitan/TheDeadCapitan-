@@ -10,11 +10,26 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=TheDeadCapitan&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Sailing%20through%20the%20sea%20of%20code%20⛵&descAlignY=55" />
 </div>
 
-<!-- Visitor Counter & Social Links -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=TheDeadCapitan&label=Crew%20Members&color=0e75b6&style=flat" alt="Profile views" />
-  <a href="https://twitter.com/yourusername"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white" alt="Twitter" /></a>
-</p>
+<!-- Visitor Counter & Welcome Message -->
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2000&pause=1000&color=FFD700&center=true&vCenter=true&width=600&lines=🏴‍☠️+Welcome+aboard,+matey!+🏴‍☠️;You+are+visitor+number:;⬇️+Check+below+⬇️" alt="Welcome" />
+  
+  <br>
+  
+  <!-- Animated visitor counter with pirate theme -->
+  <img src="https://profile-counter.glitch.me/TheDeadCapitan/count.svg" alt="Visitor Count" style="border: 2px solid #00D9FF; border-radius: 10px; padding: 5px;" />
+  
+  <br><br>
+  
+  <!-- Crew status message -->
+  <img src="https://img.shields.io/badge/🚢_Crew_Status-Open_for_New_Pirates-00D9FF?style=for-the-badge&labelColor=1a1b27" alt="Crew Status" />
+  <img src="https://img.shields.io/badge/⚓_Ship_Status-Ready_to_Sail-FFD700?style=for-the-badge&labelColor=1a1b27" alt="Ship Status" />
+  
+  <br><br>
+  
+  <!-- Animated divider -->
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
 
 ---
 
