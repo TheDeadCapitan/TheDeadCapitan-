@@ -37,12 +37,12 @@
 <div align="center">
   
   <!-- Animated Skills -->
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python&theme=dark" />
   
   <br><br>
   
   <!-- Learning Progress -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7DC6F&center=true&vCenter=true&width=435&lines=HTML%3A+50%25+Complete;CSS%3A+40%25+Complete;JavaScript%3A+20%25+Complete;Python%3A+15%25+Complete;Git%3A+5%25+Complete+(Help!)" alt="Learning Progress" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7DC6F&center=true&vCenter=true&width=435&lines=Python%3A+15%25+Complete;Still+Learning+the+Basics!;Debugging+is+my+cardio+💪" alt="Learning Progress" />
 </div>
 
 ---
